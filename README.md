@@ -1,4 +1,4 @@
-# dsss-rs 🛡️
+# RustQLi 🛡️
 
 A modular, custom SQL Injection (SQLi) scanner written in **Rust** as a security proof-of-concept (PoC). Designed to detect parameter vulnerabilities via error-based signaling (HTTP 5xx server responses).
 
