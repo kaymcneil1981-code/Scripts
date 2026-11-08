@@ -6,7 +6,7 @@ A collection of custom security tools, proof-of-concept (PoC) scripts, and offen
 
 | Tool / Script | Language | Description |
 | :--- | :---: | :---|
-| [`RustQL`](./dsss-rs) | Rust | Modular, error-based SQL Injection (SQLi) scanner with automated CLI parameter fuzzing. |
+| [`RustQL`](./Rustql) | Rust | Modular, error-based SQL Injection (SQLi) scanner with automated CLI parameter fuzzing. |
 | *[Future Script]* | *Python / Rust* | *Placeholder for upcoming security automation or assessment tools.* |
 
 ## Repository Structure
