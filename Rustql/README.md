@@ -24,7 +24,7 @@ A modular, custom SQL Injection (SQLi) scanner written in **Rust** as a security
 
 1. Cargo build --release
 2. Expected Output
-    Compiling rustql v0.1.0 (/home/kay/Scripts/Rustql)
+    Compiling rustql v0.1.0 (/home/user/Scripts/Rustql)
         Finished `release` profile [optimized] target(s) in 2.14s
 3. Location
    The compiled binary will be located at ./target/release/rustql.
